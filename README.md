@@ -9,9 +9,6 @@ Just a sample service
 - [Installation](#installation)
 - [Running the Service](#running-the-service)
 - [Building the Docker Image](#building-the-docker-image)
-- [Editing the Code](#editing-the-code)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
